@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Всего работников в компании – " + amountOfWorkers + " человек");
         var currentValueOfEmployees = amountOfWorkers + 94;
         var currentHoursPerEmployee = totalHours / currentValueOfEmployees;
-        System.out.println("Если в компании работает " + currentValueOfEmployees + " человек, то всего " + currentHoursPerEmployee + " часов работы может быть поделено между сотрудниками.");
+        System.out.println("Если в компании работает " + currentValueOfEmployees + " человека, то всего по " + currentHoursPerEmployee + " часа работы может быть поделено между сотрудниками.");
 
 
 
